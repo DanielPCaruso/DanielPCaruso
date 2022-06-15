@@ -1,7 +1,7 @@
 # Daniel de Paula Caruso
 
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-paula-caruso/)](https://www.linkedin.com/in/daniel-paula-caruso/)
- [![Email Badge](https://img.shields.io/badge/-Email-6633cc?style=flat-square&logo=apple&logoColor=white&link=mailto:daniez.paulaz@gmail.com/)](mailto:daniez.paulaz@gmail.com")
+ [![Email Badge](https://img.shields.io/badge/-Email-6633cc?style=flat-square&logo=gmail&logoColor=white&link=mailto:daniez.paulaz@gmail.com/)](mailto:daniez.paulaz@gmail.com")
  
 <br>
  
